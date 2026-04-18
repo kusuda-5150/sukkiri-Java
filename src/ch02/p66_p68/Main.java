@@ -1,4 +1,4 @@
-package ch02.p66;
+package ch02.p66_p68;
 
 public class Main {
     public static void main(String[] args) {
