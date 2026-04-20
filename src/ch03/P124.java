@@ -1,0 +1,11 @@
+package ch03;
+
+public class P124 {
+    public static void main (String[] args) {
+        int temp = 24;
+        do {
+         temp--;
+            System.out.println("温度を1度下げました");
+        } while(temp > 25);
+    }
+}
