@@ -14,8 +14,6 @@ public class Pr1 {
 
         //C, E
 
-        //3-3
-
 
     }
 }
