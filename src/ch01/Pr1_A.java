@@ -1,4 +1,4 @@
-package ch00;
+package ch01;
 
 public class Pr1_A {
     public static void main(String[] args) {
